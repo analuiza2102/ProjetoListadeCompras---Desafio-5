@@ -6,7 +6,7 @@ Lógica JS 5/7: Arrays e coleções
 | -------------  | --- |
 | :sparkles: Nome        | * Desafio5--#7DaysOfCode**
 | :label: Tecnologias | HTML, Css e JavaScript(tecnologias utilizadas)
-| :rocket: URL         |[https://analuiza2102.github.io/Desafio4--7DaysOfCode/)
+| :rocket: URL         |[https://analuiza2102.github.io/ProjetoListadeCompras---Desafio-5/)
 | :fire: Desafio     |[https://7daysofcode.io/#front-end)
 
 # Descrição
