@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="Pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sua Lista de compras</title>
+
+    <link rel="stylesheet" href="./Assets/style.css">
+    <link rel="stylesheet" href="./Assets/reset.css">
+
+</head>
+<body>
+    
+    <div class="Container_Geral">
+        <h1 class="titulo__lista">Lista de Compras</h1>
+        <form  class="formulario" id="formulario">
+        <div class="Input__">
+            <label for="itemInput">Qual comida deseja adicionar? </label>
+           <input class="Input_Text" type="text" id="itemInput">
+        </div>
+            <br>
+            <label class="Categoria_frase" for="categoriaSelect">Em qual categoria se encaixa? </label>
+            <select class="Select_itens" id="categoriaSelect">
+                <option value="frutas">Frutas</option>
+                <option value="laticinios">Laticínios</option>
+                <option value="congelados">Congelados</option>
+                <option value="doces">Doces</option>
+                <option value="bebidas">Bebidas</option>
+                <option value="carnes">Carnes</option>
+                <option value="verduras">Verduras</option>
+                <option value="outros">Outros</option>
+                <!-- Adicione mais opções de categoria conforme necessário -->
+            </select>
+            <br>
+            <div class="Btn_Lista__adicionar">
+            <button class="btn__adicionar" type="submit">Adicionar</button>
+            </div>
+        </form>
+        <div class="lista-compras" id="listaCompras">
+            <div class="Btn_clean">
+            <button  class="limparLista" id="limparLista">Limpar Lista</button>
+        </div>
+            <h2 class="Title_clean">Lista de compras:</h2>
+                <ul class="lista__itens" id="listaUl">
+                    <!-- Itens da lista de compras serão adicionados dinamicamente aqui -->
+                </ul>
+        </div>
+    </div>
+       
+        <script src="./Assets/script.js"></script>
+
+</body>
+</html>
