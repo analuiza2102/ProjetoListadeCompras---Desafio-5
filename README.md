@@ -19,5 +19,5 @@ Responsivo
 
 ![Desafio-5img desktop](https://user-images.githubusercontent.com/103043108/232462620-04258784-82b4-42f6-ae3f-58b2134ccb39.png#vitrinedev)
 
-![mobile-lista](https://user-images.githubusercontent.com/103043108/232462716-b511a4ee-6769-4221-97ae-11657e5706ca.png)
+![mobile-lista](https://user-images.githubusercontent.com/103043108/232462716-b511a4ee-6769-4221-97ae-11657e5706ca.png#vitrinedev)
 
